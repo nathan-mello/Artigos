@@ -70,19 +70,19 @@ T(40) = 4.40 = 160
 
 T(50) = 4.50 = 200
 
-<img src=".\imagens\1 - linear.png" style="zoom:60%;" />
+<img src=".\imagens\1 - linear.png" style="zoom:40%;" />
 
 ### Classificação de Algoritmos
 
 Agora que você sabe calcular a complexidade de Algoritmos, podemos classificados em algumas categorias principais: Complexidade Constante O(1), Complexidade  Logarítmica O(log n), Complexidade Linear O(n),  Complexidade Quadrática O(n²) e Complexidade Fatorial(n!).
 
-![](.\Artigos\imagens\1 - gráfico.png)
+![](.\imagens\1 - gráfico.png)
 
 #### Constante O(1)
 
 Algoritmos constantes são aqueles cuja complexidade não varia com o tamanho da entrada. Isso significa que, independentemente do tamanho da entrada, o tempo de execução do algoritmo será sempre o mesmo. Por exemplo, um algoritmo que simplesmente imprime uma mensagem na tela sempre terá um tempo de execução constante, não importando o tamanho da entrada. A notação assintótica para algoritmos constantes é O(1).
 
-<img src=".\Artigos\imagens\1 - constante.png" style="zoom:60%;" />
+<img src=".\imagens\1 - constante.png" style="zoom:40%;" />
 
 #### logarítmicos O(log n)
 
@@ -90,7 +90,7 @@ Algoritmos logarítmicos são aqueles cujo tempo de execução cresce de forma l
 
 Um exemplo comum de algoritmo logarítmico é a pesquisa binária (binary search). Nesse algoritmo, uma lista ordenada é dividida pela metade repetidamente até que o elemento procurado seja encontrado ou até que seja determinado que ele não está na lista. Como a lista é dividida pela metade a cada passo, o número de elementos a serem verificados é reduzido pela metade a cada iteração, o que leva a um crescimento logarítmico no tempo de execução.
 
-<img src=".\Artigos\imagens\1 - logarítmicos.png" style="zoom:60%;" />
+<img src=".\imagens\1 - logarítmicos.png" style="zoom:40%;" />
 
 #### Linear O(n)
 
@@ -98,13 +98,13 @@ Algoritmos lineares, também conhecidos como algoritmos de tempo linear, são aq
 
 Os algoritmos lineares são geralmente considerados bastante eficientes, pois o tempo de execução aumenta de forma previsível com o tamanho da entrada. Alguns exemplos de algoritmos lineares incluem a busca linear em uma lista e a soma de todos os elementos em uma lista.
 
-<img src=".\Artigos\imagens\1 - linear.png" alt="1 - linear" style="zoom:60%;" />
+<img src=".\imagens\1 - linear.png" alt="1 - linear" style="zoom:40%;" />
 
 #### Quadrático O(n²) 
 
 Algoritmos quadráticos são aqueles cuja taxa de crescimento é proporcional ao quadrado do tamanho da entrada. Esses algoritmos tendem a ter um desempenho ruim para entradas grandes. Outro exemplo de algoritmo quadrático é o algoritmo que percorre uma matriz NxN, que consiste em um loop dentro de outro loop.
 
-<img src=".\Artigos\imagens\1 - Quadrático.png" style="zoom:60%;" />
+<img src=".\imagens\1 - Quadrático.png" style="zoom:40%;" />
 
 #### Fatorial O(n!)
 
@@ -115,7 +115,7 @@ Algoritmos fatoriais são aqueles cuja complexidade é proporcional a um fatoria
 
 De maneira geral, algoritmos fatoriais são considerados muito ineficientes e só são utilizados para tamanhos de entrada muito pequenos. Para tamanhos de entrada maiores, é necessário utilizar algoritmos mais eficientes que tenham uma complexidade menor.
 
-<img src=".\Artigos\imagens\1 - fatorial.png" style="zoom:60%;" />
+<img src=".\imagens\1 - fatorial.png" style="zoom:40%;" />
 
 ### Conclusão
 
