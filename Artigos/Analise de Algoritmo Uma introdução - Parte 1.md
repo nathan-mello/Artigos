@@ -70,7 +70,7 @@ T(40) = 4.40 = 160
 
 T(50) = 4.50 = 200
 
-<img src=".\Artigos\imagens\1 - linear.png" style="zoom:60%;" />
+<img src=".\imagens\1 - linear.png" style="zoom:60%;" />
 
 ### Classificação de Algoritmos
 
